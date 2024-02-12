@@ -1,0 +1,13 @@
+{
+  "name": "Do Anything",
+  "dice": 1,
+  "subSkillTree": {"skillList": [{
+    "name": "Kick",
+    "dice": 2,
+    "subSkillTree": {"skillList": [{
+      "name": "Tornado Kick",
+      "dice": 3,
+      "subSkillTree": {"skillList": []}
+    }]}
+  }]}
+}
